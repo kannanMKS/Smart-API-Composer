@@ -1,0 +1,9 @@
+google-genai
+fastapi
+uvicorn
+pydantic
+pyyaml
+httpx
+sqlalchemy
+aiosqlite
+python-dotenv
